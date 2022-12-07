@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cnsrc.janyideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cnsrc.janyideaplugin.MyBundle
 
 class MyApplicationService {
 
